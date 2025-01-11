@@ -6,6 +6,3 @@
 *   [action文件路径](https://github.com/liyu3432/action-depoly-demo/blob/main/.github/workflows/main.yml)
 *   [文章地址](https://juejin.cn/post/7458303492210393139)
 
-## action流程
-
-![img.png](img.png)
