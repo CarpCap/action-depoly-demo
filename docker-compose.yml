@@ -7,7 +7,6 @@ services:
     environment:
       JVM_OPTS: "-Xmx256m -Xms32m "
     restart: always  # 总是重启
-    image: whats-java:latest # 镜像名称
     container_name: myApp #容器名称
     ports:    # 指定端口映射
       - "9014:9014"
