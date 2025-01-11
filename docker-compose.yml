@@ -4,6 +4,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+    image: myApp:latest # 镜像名称
     environment:
       JVM_OPTS: "-Xmx256m -Xms32m "
     restart: always  # 总是重启
