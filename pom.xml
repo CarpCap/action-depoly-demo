@@ -37,6 +37,11 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>2.3.4.RELEASE</version>
+                <configuration>
+                    <mainClass>com.liyu3432.spring.Application</mainClass>
+                    <layout>JAR</layout>
+                </configuration>
                 <executions>
                     <execution>
                         <goals>
@@ -44,11 +49,6 @@
                         </goals>
                     </execution>
                 </executions>
-
-                <configuration>
-                    <mainClass>com.liyu3432.spring.Application</mainClass>
-                </configuration>
-                <version>2.3.4.RELEASE</version>
             </plugin>
 
         </plugins>
