@@ -32,7 +32,6 @@
                 <version>2.3.4.RELEASE</version>
                 <configuration>
                     <mainClass>com.liyu.spring.Application</mainClass>
-
                 </configuration>
                 <executions>
                     <execution>
