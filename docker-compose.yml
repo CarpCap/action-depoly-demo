@@ -10,4 +10,4 @@ services:
     image: whats-java:latest # 镜像名称
     container_name: myApp #容器名称
     ports:    # 指定端口映射
-      - "10001:10001"
+      - "9014:9014"

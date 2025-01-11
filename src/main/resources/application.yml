@@ -1,6 +1,6 @@
 server:
   name: spring
-  port: 10001
+  port: 9014
   tomcat:
     threads:
       max: 200  #最大线程数
