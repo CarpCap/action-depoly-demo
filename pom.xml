@@ -44,6 +44,10 @@
                         </goals>
                     </execution>
                 </executions>
+
+                <configuration>
+                    <mainClass>com.liyu3432.spring.Application</mainClass>
+                </configuration>
                 <version>2.3.4.RELEASE</version>
             </plugin>
 
