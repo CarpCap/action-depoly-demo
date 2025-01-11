@@ -45,4 +45,4 @@ jobs:
           script: |
             cd /usr/local/apps/myApp/
             docker-compose down                  # 停止现有服务
-            docker-compose up -d                 # 以守护模式启动服务
+            docker-compose up -d --build         # 以守护模式启动服务 并且强制构建一次镜像
