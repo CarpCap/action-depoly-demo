@@ -39,7 +39,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>2.3.4.RELEASE</version>
                 <configuration>
-                    <mainClass>com.liyu3432.spring.Application</mainClass>
+                    <mainClass>com.liyu.spring.Application</mainClass>
                     <layout>JAR</layout>
                 </configuration>
                 <executions>

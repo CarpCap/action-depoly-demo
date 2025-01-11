@@ -1,4 +1,4 @@
-package com.liyu3432.spring.controler;
+package com.liyu.spring.controler;
 
 
 import org.springframework.web.bind.annotation.*;
