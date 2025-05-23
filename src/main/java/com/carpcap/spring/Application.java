@@ -1,10 +1,10 @@
-package com.liyu.spring;
+package com.carpcap.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author Kwon
+ * @author CarpCap
  * @Title:
  * @Description:
  * @date 2020/7/23 14:22
